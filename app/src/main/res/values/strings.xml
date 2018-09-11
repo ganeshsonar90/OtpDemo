@@ -1,0 +1,29 @@
+<resources>
+  <string name="app_name">SignUpDemo</string>
+  <string name="hello_world">Hello world!</string>
+  <string name="action_settings">Settings</string>
+  <string name="title_activity_sms">SmsActivity</string>
+  <string name="action_logout">Logout</string>
+  <string name="msg_enter_mobile">Enter your mobile number to get started!</string>
+  <string name="lbl_name">Name</string>
+  <string name="lbl_email">Email</string>
+  <string name="lbl_mobile">Mobile</string>
+  <string name="lbl_next">NEXT</string>
+  <string name="msg_sit_back">Sit back &amp; Relax! while we verify your mobile number</string>
+  <string name="msg_manual_otp">(Enter the OTP below in case if we fail to detect the SMS automatically)</string>
+  <string name="lbl_enter_otp">Enter OTP</string>
+  <string name="lbl_submit">SUBMIT</string>
+  <string name="lbl_country_code">+</string>
+
+  <string name="permission_alert_dialog_title">Requesting SMS permission</string>
+  <string name="permission_dialog_message">The app will now request your permission to send and read SMS related services.</string>
+  <string name="action_ok">OK</string>
+  <string name="err_no_otp">Sorry,no otp found</string>
+  <string name="err_otp_try">Sorry,try one more time</string>
+  <string name="err_network">network connection error</string>
+  <string name="success_otp">Suucessfully Otp received</string>
+
+
+
+
+</resources>
